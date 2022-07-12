@@ -7,4 +7,4 @@ director:
 
 mongodb:
   mongoConnectionString: "mongodb://sorry-cypress-connstringtest-mongodb-headless:27017"
-  nameOverride: "mongo-db-name-override-3jd7f"
+  fullnameOverride: "mongo-db-name-override-3jd7f"
