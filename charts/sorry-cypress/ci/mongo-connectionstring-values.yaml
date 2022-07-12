@@ -6,5 +6,5 @@ director:
     executionDriver: "../execution/mongo/driver"
 
 mongodb:
-  mongoConnectionString: "mongodb://sorry-cypress-connstringtest-mongodb-headless:27017"
-  fullnameOverride: "mongo-db-name-override-3jd7f"
+  mongoConnectionString: "mongodb://sorry-cypress-override-mongodb-headless:27017"
+  fullnameOverride: "sorry-cypress-override-mongodb"
