@@ -1,5 +1,5 @@
 # Enables mongo for testing
-fullnameOverride: sorry-cypress-connstringtest
+#fullnameOverride: sorry-cypress-connstringtest
 
 director:
   environmentVariables:
@@ -7,3 +7,4 @@ director:
 
 mongodb:
   mongoConnectionString: "mongodb://sorry-cypress-connstringtest-mongodb-headless:27017"
+  nameOverride: "mongo-db-name-override-3jd7f"
