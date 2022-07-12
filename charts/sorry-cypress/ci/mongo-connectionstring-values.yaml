@@ -1,5 +1,5 @@
 # Enables mongo for testing
-# fullnameOverride: sorry-cypress-connstringtest
+fullnameOverride: sorry-cypress-override
 
 director:
   environmentVariables:
